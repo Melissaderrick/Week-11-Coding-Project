@@ -1,0 +1,15 @@
+{
+  "name": "promineo-tech-week-11-master",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe Game Week 11 ",
+  "main": "app.js",
+  "dependencies": {
+    "jquery": "^3.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melissa Derrick",
+  "license": "ISC"
+}
